@@ -13,6 +13,7 @@
 		A718EF0E2443154B000A206F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A718EF0C2443154B000A206F /* Main.storyboard */; };
 		A718EF102443154D000A206F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A718EF0F2443154D000A206F /* Assets.xcassets */; };
 		A718EF132443154D000A206F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A718EF112443154D000A206F /* LaunchScreen.storyboard */; };
+		A718EF1C244318E0000A206F /* didSetAnimation.gif in Resources */ = {isa = PBXBuildFile; fileRef = A718EF1B244318E0000A206F /* didSetAnimation.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,8 @@
 		A718EF0F2443154D000A206F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A718EF122443154D000A206F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A718EF142443154D000A206F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A718EF1A2443178C000A206F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		A718EF1B244318E0000A206F /* didSetAnimation.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = didSetAnimation.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +43,8 @@
 		A718EEFA2443154B000A206F = {
 			isa = PBXGroup;
 			children = (
+				A718EF1A2443178C000A206F /* README.md */,
+				A718EF1B244318E0000A206F /* didSetAnimation.gif */,
 				A718EF052443154B000A206F /* didSetAnimation */,
 				A718EF042443154B000A206F /* Products */,
 			);
@@ -125,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A718EF1C244318E0000A206F /* didSetAnimation.gif in Resources */,
 				A718EF132443154D000A206F /* LaunchScreen.storyboard in Resources */,
 				A718EF102443154D000A206F /* Assets.xcassets in Resources */,
 				A718EF0E2443154B000A206F /* Main.storyboard in Resources */,
